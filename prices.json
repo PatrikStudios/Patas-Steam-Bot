@@ -1,0 +1,24 @@
+{ 
+    	"Scrap Metal":
+    {
+    	"buy": 1,
+	"sell": 1
+    },
+   
+    	"Reclaimed Metal":
+    {
+    	"buy": 3,
+	"sell": 3
+    },	
+    
+    	"Refind Metal":
+    {
+    	"buy": 9,
+	"sell": 9
+    },
+	"The Conscientious Objector":
+    {
+	"buy": 5,
+	"sell": 6
+    }	
+}
